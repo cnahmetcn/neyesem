@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ---
 
-Flutter ile Rasgele Yemek Gösteren Uygulama
+Flutter ile Rastgele Yemek Gösteren Uygulama
